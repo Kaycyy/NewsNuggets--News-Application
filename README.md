@@ -13,8 +13,8 @@ NewsNuggets is a dynamic and intuitive news application built with React.js, lev
 7. Dark Mode: Reduce eye strain and enjoy a sleek look with the dark mode option.
 
 # Technologies Used
-- Frontend: React.js, CSS3, HTML5
+- Frontend: React.js
 - API: NewsAPI.org for fetching news data
 - State Management: React Hooks and Context API
 - Routing: React Router for seamless navigation
-- Deployment: Hosted on a reliable cloud service (e.g., Netlify, Vercel)
+
